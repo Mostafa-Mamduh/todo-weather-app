@@ -1,4 +1,4 @@
-# my-app
+# my-app Vuetify Todo app and Weather app
 
 ## Project setup
 ```
